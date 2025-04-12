@@ -17,7 +17,7 @@ https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chr
 # Install  selenium using cmd
  pip install selenium
 
-# How to execute the automated-login-and-session-monitoring
+# How to execute the script
 copy the python file and paste it on notepad and save as filename.py
 open cmd and run 
 python filename.py
