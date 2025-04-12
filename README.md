@@ -15,7 +15,9 @@ chromedriver:135.0.7049.84(winx64)
 https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chromedriver-win64.zip
 
 # Install  selenium using cmd
-pip install selenium
+pip install selenium```text
+📋 Copy this command: npm install my-package
+```
 
 # How to execute the automated-login-and-session-monitoring
 copy the python file and paste it on notepad and save as filename.py
